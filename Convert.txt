@@ -1,0 +1,7 @@
+This is a test of the cpts 122
+Morse code conversion tool.
+My name is Jaehong.
+Nice to meet you.
+How is your day going??
+This is a PA6 assignment.
+It is about converting an English sentence into a Morse code.
